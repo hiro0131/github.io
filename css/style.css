@@ -327,7 +327,7 @@
     text-align: center;
   }
   .feature-box img {
-    height: 280px;
+    height: 230px;
   }
   .feature-box h3 {
     font-size: 18px;
@@ -398,6 +398,7 @@
 @media (max-width: 768px) {
   .price table th {
     width: 70%;
+    padding: 10px;
   }
 }
 
@@ -411,6 +412,7 @@
 
 @media (max-width: 768px) {
   .price table td {
+    padding: 10px;
     width: 30%;
   }
 }
